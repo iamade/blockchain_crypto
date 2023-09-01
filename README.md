@@ -1,3 +1,5 @@
+stopped at video 35 3:41
+
 **Activate the virtual environment**
 ```
 source mac-bchain-env/bin/activate
