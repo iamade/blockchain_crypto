@@ -3,3 +3,4 @@
 *node_modules*
 blockchain-env/lib/python3.7
 mac-bchain-env/lib/python3.9
+mac-py311-blochain-env/lib/python3.11

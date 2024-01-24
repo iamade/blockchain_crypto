@@ -1,4 +1,4 @@
-stopped at video 35 3:41
+stopped at video 46 9:27
 
 **Activate the virtual environment**
 ```
